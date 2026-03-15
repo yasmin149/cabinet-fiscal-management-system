@@ -1,13 +1,13 @@
-package com.cabinetfiscal.cabinet_fiscal_management;
+package com.cabinet.cabinet_fiscal_api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CabinetFiscalManagementApplication {
+public class CabinetFiscalApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CabinetFiscalManagementApplication.class, args);
+		SpringApplication.run(CabinetFiscalApiApplication.class, args);
 	}
 
 }
